@@ -1,6 +1,3 @@
-# TodoList Project
-![todolist v1 - Copy](https://github.com/mirjalol-jabborov/todolist_using_java/assets/69468044/baa8e4dd-5286-4ef6-b865-e4975a856d30)
-
 
 # 📝 To-Do List CLI Application in Java
 
